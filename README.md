@@ -1,1 +1,1 @@
-# SistemaVotacao
+Este projeto consiste em um sistema de Urna Eletrônica desenvolvido em Java, com o objetivo principal de consolidar conceitos fundamentais de Programação Orientada a Objetos, como encapsulamento, herança de métodos nativos e manipulação de coleções de dados. A aplicação simula o processo de uma eleição, permitindo o cadastro dinâmico de candidatos e a gestão de votos através de uma interface lógica.
